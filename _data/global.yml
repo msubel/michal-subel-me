@@ -4,6 +4,6 @@ description: "I'm a software developer and designer from Chicago creating useful
 url: 'http://msubel.github.io/michal-subel-me/' # the base hostname & protocol for your site
 nav: "false"
 footer_text: '© 2017 Michal Subel'
-twitter: ''
-github: ''
-medium: ''
+twitter: 'michal_subel'
+github: 'msubel'
+medium: 'medium.com/@michal_subel'
